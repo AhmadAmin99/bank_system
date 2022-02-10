@@ -1,0 +1,32 @@
+﻿  admin.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  client.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  DataSourceInterface.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  employee.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  fileHelper.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  fileManager.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  parser.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  person.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  validation.cpp
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed Amin\source\repos\bank_system\bank_system\validation.h(20,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  bank_system.vcxproj -> C:\Users\Ahmed Amin\source\repos\bank_system\Debug\bank_system.exe
